@@ -11,3 +11,6 @@ letterCombination.exe
 nQueen.exe
 permutation.exe
 boundingPerm.exe
+ratMaze.exe 
+sudoku.exe
+wordSearch.exe

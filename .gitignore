@@ -16,6 +16,7 @@ sudoku.exe
 wordSearch.exe
 wordBreak.exe
 addExpr.exe
+mColoring.exe
 largestElem.exe
 secondLargest.exe
 checkArray.exe

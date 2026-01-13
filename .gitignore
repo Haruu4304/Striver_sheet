@@ -16,3 +16,8 @@ sudoku.exe
 wordSearch.exe
 wordBreak.exe
 addExpr.exe
+largestElem.exe
+secondLargest.exe
+checkArray.exe
+removeDup.exe 
+rotateArr.exe

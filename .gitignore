@@ -33,3 +33,5 @@ reverseIterative.exe
 reverseRecursive.exe
 middleLL.exe
 merge.exe
+splitTwohalves.exe
+deleteNth.exe

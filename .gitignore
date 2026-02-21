@@ -28,3 +28,8 @@ checkPalindrome.exe
 reverse.exe
 findDup.exe
 checkString.exe
+insertion.exe
+reverseIterative.exe
+reverseRecursive.exe
+middleLL.exe
+merge.exe

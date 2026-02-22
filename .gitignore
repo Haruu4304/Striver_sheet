@@ -35,3 +35,6 @@ middleLL.exe
 merge.exe
 splitTwohalves.exe
 deleteNth.exe
+reverseKQueue.exe
+evaluatePolishNotation.exe
+circularQueue.exe
